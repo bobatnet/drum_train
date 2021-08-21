@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": ".venv/bin/python",
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true
+}
